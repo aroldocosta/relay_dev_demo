@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dt_device_tree.h": "c",
+        "param.h": "c"
+    }
+}
